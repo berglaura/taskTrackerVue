@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "March 1st",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "day": "March 3rd",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Food shopping",
+      "day": "March 3rd",
+      "reminder": false
+    },
+    {
+      "id": 9953,
+      "text": "Imurointi",
+      "day": "perjantai",
+      "reminder": false
+    }
+  ]
+}
